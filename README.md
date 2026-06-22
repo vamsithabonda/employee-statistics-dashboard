@@ -38,10 +38,10 @@ This Power BI dashboard provides insights into employee workforce statistics, at
 ## 📷 Dashboard Preview
 
 ### 🏠 Main Dashboard
-[View Dashboard](Screenshots/page1.png)
+[View Dashboard](page1.png)
 
 ### 🎛️ Interactive Slicer Panel
-[View Slicer Panel](Screenshots/slicer.png)
+[View Slicer Panel](slicer.png)
 
 ## 📈 Key Insights
 
